@@ -1,7 +1,7 @@
 # FCIC24_Workshop_AI
 FCIC24 - Workshop G02 Artificial Intelligence for Participatory Processes in Heritage Planning
 
-Workshop Leader: Dr. Nan Bai (Wageningen University and Research), Dr. Mahda Foroughi (Delft University of Technology)
+Workshop Leader: Dr. Nan Bai (Delft University of Technology, Wageningen University and Research), Dr. Mahda Foroughi (Delft University of Technology)
 
 This repository contains a Python notebook hosted on Google Colab that you can follow to reproduce many of the results presented during the workshop presentation by Nan and Mahda. You have the chance to bring in your own case-study city and collect your own datasets in ready-to-use formats for further research and heritage investigations. A pipeline from data collection, data processing, feature representation (with pre-trained deep learning models), label classification (with predefined machine learning algorithms), and data visualization will be introduced and followed step-by-step, but in a much easier way. 
 
