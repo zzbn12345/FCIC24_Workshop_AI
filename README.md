@@ -3,6 +3,9 @@ FCIC24 - Workshop G02 Artificial Intelligence for Participatory Processes in Her
 
 Workshop Leader: Dr. Nan Bai (Delft University of Technology, Wageningen University and Research), Dr. Mahda Foroughi (Delft University of Technology)
 
+[![DOI](https://zenodo.org/badge/739395584.svg)](https://zenodo.org/doi/10.5281/zenodo.11093452)
+
+
 This repository contains a Python notebook hosted on Google Colab that you can follow to reproduce many of the results presented during the workshop presentation by Nan and Mahda. You have the chance to bring in your own case-study city and collect your own datasets in ready-to-use formats for further research and heritage investigations. A pipeline from data collection, data processing, feature representation (with pre-trained deep learning models), label classification (with predefined machine learning algorithms), and data visualization will be introduced and followed step-by-step, but in a much easier way. 
 
 You probably need some knowledge of programming to understand what happens in each part. However, it does not matter that much if you do not. Just walk through all the steps and you will at least have some interesting results at hand.
